@@ -3,7 +3,7 @@
 
 This example demonstrates how to use web3sdkio Auth with Supabase.
 
-Before running the project, you'll need to seutp and configure Supabase [as specified here](https://portal.web3sdk.io/auth/integrations/supabase).
+Before running the project, you'll need to seutp and configure Supabase [as specified here](https://docs.web3sdk.io/auth/integrations/supabase).
 
 To run the project, first clone this repository, and then run one of the following commands to install the dependencies:
 
@@ -40,4 +40,4 @@ You can check out [the web3sdkio GitHub organization](https://github.com/web3sdk
 
 ## Join our Discord!
 
-For any questions, suggestions, join our discord at [https://discord.gg/web3sdkio](https://discord.gg/web3sdkio).
+For any questions, suggestions, join our discord at [https://discord.gg/n33UhsfUKB](https://discord.gg/n33UhsfUKB).
